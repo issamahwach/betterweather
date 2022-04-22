@@ -1,7 +1,7 @@
 # betterweather
 Simple weather UI using:
-- Vue JS 3 (Composition API)
-- Tailwind CSS
+- [Vue JS 3 (Composition API)](https://vuejs.org)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [Weather API](https://Weatherapi.com)
 - [Unsplash API](https://unsplash.com/developers)
 
