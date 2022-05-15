@@ -7,6 +7,8 @@ Simple weather UI using:
 
 ## Demo
 
+[Click Here](https://betterweatherprod.netlify.app)
+
 ![BetterWeather](https://github.com/issamahwach/betterweather/blob/main/public/images/cover.jpg?raw=true)
 
 ## Instructions
